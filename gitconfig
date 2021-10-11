@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jefferson.alves@msn.com
+	name = Jefferson Avelino
